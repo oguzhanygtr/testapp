@@ -1,63 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<YemekMenusu universite="Ankara Hacı Bayram Veli Üniversitesi SKS" donem="Ekim 2025">
-  
-  <Gun tarih="2025-10-20" isim="Pazartesi">
-    <OgleYemegi>
-      <Yemek tur="Kalori">1150 kcal</Yemek>
-      <Yemek tur="corba">Mercimek Çorbası</Yemek>
-      <Yemek tur="ana_yemek">Orman Kebabı</Yemek>
-      <Yemek tur="yan_yemek">Pirinç Pilavı</Yemek>
-      <Yemek tur="etsiz_secim">Mevsim Salata</Yemek>
-      <Yemek tur="tatli_meyve">Supangle</Yemek>
-    </OgleYemegi>
-  </Gun>
-  
-  <Gun tarih="2025-10-21" isim="Salı">
-    <OgleYemegi>
-      <Kalori>1200 kcal</Kalori>
-      <Yemek tur="Çorba">Ezogelin Çorbası</Yemek>
-      <Yemek tur="Ana Yemek">İzmir Köfte</Yemek>
-      <Yemek tur="Yardımcı Yemek">Patates Püresi</Yemek>
-      <Yemek tur="Ek">Turşu</Yemek>
-      <Yemek tur="Meyve">Elma</Yemek>
-    </OgleYemegi>
-    <AlternatifMenu tip="Vejetaryen">
-        <Yemek tur="Ana Yemek">Sebzeli Nohut Yemeği</Yemek>
-        <Yemek tur="Yardımcı Yemek">Kepekli Pirinç Pilavı</Yemek>
-    </AlternatifMenu>
-  </Gun>
-  
-  <Gun tarih="2025-10-22" isim="Çarşamba">
-    <OgleYemegi>
-      <Kalori>1100 kcal</Kalori>
-      <Yemek tur="Çorba">Domates Çorbası</Yemek>
-      <Yemek tur="Ana Yemek">Piliç Roti</Yemek>
-      <Yemek tur="Yardımcı Yemek">Fırın Makarna</Yemek>
-      <Yemek tur="Salata/Ek">Havuç Salata</Yemek>
-      <Yemek tur="Ek">Ayran</Yemek>
-    </OgleYemegi>
-  </Gun>
-  
-  <Gun tarih="2025-10-23" isim="Perşembe">
-    <OgleYemegi>
-      <Kalori>1250 kcal</Kalori>
-      <Yemek tur="Çorba">Mantar Çorbası</Yemek>
-      <Yemek tur="Ana Yemek">Etli Güveç</Yemek>
-      <Yemek tur="Yardımcı Yemek">Bulgur Pilavı</Yemek>
-      <Yemek tur="Salata/Ek">Çoban Salata</Yemek>
-      <Yemek tur="Tatlı">Şekerpare</Yemek>
-    </OgleYemegi>
-  </Gun>
-  
-  <Gun tarih="2025-10-24" isim="Cuma">
-    <OgleYemegi>
-      <Kalori>1180 kcal</Kalori>
-      <Yemek tur="Çorba">Düğün Çorbası</Yemek>
-      <Yemek tur="Ana Yemek">Balık (İstavrit Tava)</Yemek>
-      <Yemek tur="Yardımcı Yemek">Patates Salatası</Yemek>
-      <Yemek tur="Salata/Ek">Roka ve Yeşillik</Yemek>
-      <Yemek tur="Tatlı">İrmik Helvası</Yemek>
-    </OgleYemegi>
-  </Gun>
-
-</YemekMenusu>
+<yemeklistesi>
+    <gun>
+        <tarih>27 Mayıs 2024, Pazartesi</tarih>
+        <corba>Mercimek Çorbası</corba>
+        <ana_yemek>Orman Kebabı</ana_yemek>
+        <etsiz_secim>Sebzeli Güveç</etsiz_secim>
+        <yan_yemek>Pirinç Pilavı</yan_yemek>
+        <tatli_meyve>Meyve</tatli_meyve>
+        <kalori>650 kcal</kalori>
+    </gun>
+    <gun>
+        <tarih>28 Mayıs 2024, Salı</tarih>
+        <corba>Yayla Çorbası</corba>
+        <ana_yemek>Tavuk Döner</ana_yemek>
+        <etsiz_secim>Nohutlu Pırasa</etsiz_secim>
+        <yan_yemek>Bulgur Pilavı</yan_yemek>
+        <tatli_meyve>Sütlaç</tatli_meyve>
+        <kalori>700 kcal</kalori>
+    </gun>
+    <gun>
+        <tarih>29 Mayıs 2024, Çarşamba</tarih>
+        <corba>Domates Çorbası</corba>
+        <ana_yemek>Izgara Köfte</ana_yemek>
+        <etsiz_secim></etsiz_secim> 
+        <yan_yemek>Patates Püresi</yan_yemek>
+        <tatli_meyve>Elma</tatli_meyve>
+        <kalori>680 kcal</kalori>
+    </gun>
+</yemeklistesi>
