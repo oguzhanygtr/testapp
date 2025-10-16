@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YemekMenusu universite="Ankara Hacı Bayram Veli Üniversitesi SKS" donem="Ekim 2025">
+  
+  <Gun tarih="2025-10-20" isim="Pazartesi">
+    <OgleYemegi>
+      <Kalori>1150 kcal</Kalori>
+      <Yemek tur="Çorba">Mercimek Çorbası</Yemek>
+      <Yemek tur="Ana Yemek">Orman Kebabı</Yemek>
+      <Yemek tur="Yardımcı Yemek">Pirinç Pilavı</Yemek>
+      <Yemek tur="Salata/Ek">Mevsim Salata</Yemek>
+      <Yemek tur="Tatlı">Supangle</Yemek>
+    </OgleYemegi>
+    <AksamYemegi>
+      <Kalori>980 kcal</Kalori>
+      <Yemek tur="Çorba">Yayla Çorbası</Yemek>
+      <Yemek tur="Ana Yemek">Tavuk Sote</Yemek>
+      <Yemek tur="Yardımcı Yemek">Bulgur Pilavı</Yemek>
+      <Yemek tur="Ek">Yoğurt</Yemek>
+    </AksamYemegi>
+  </Gun>
+  
+  <Gun tarih="2025-10-21" isim="Salı">
+    <OgleYemegi>
+      <Kalori>1200 kcal</Kalori>
+      <Yemek tur="Çorba">Ezogelin Çorbası</Yemek>
+      <Yemek tur="Ana Yemek">İzmir Köfte</Yemek>
+      <Yemek tur="Yardımcı Yemek">Patates Püresi</Yemek>
+      <Yemek tur="Ek">Turşu</Yemek>
+      <Yemek tur="Meyve">Elma</Yemek>
+    </OgleYemegi>
+    <AksamYemegi>
+      <Kalori>1050 kcal</Kalori>
+      <Yemek tur="Çorba">Şehriye Çorbası</Yemek>
+      <Yemek tur="Ana Yemek">Kuru Fasulye</Yemek>
+      <Yemek tur="Yardımcı Yemek">Pirinç Pilavı</Yemek>
+      <Yemek tur="Ek">Cacık</Yemek>
+    </AksamYemegi>
+    <AlternatifMenu tip="Vejetaryen">
+        <Yemek tur="Ana Yemek">Sebzeli Nohut Yemeği</Yemek>
+        <Yemek tur="Yardımcı Yemek">Kepekli Pirinç Pilavı</Yemek>
+    </AlternatifMenu>
+  </Gun>
+  
+  <Gun tarih="2025-10-22" isim="Çarşamba">
+    <OgleYemegi>
+      <Kalori>1100 kcal</Kalori>
+      <Yemek tur="Çorba">Domates Çorbası</Yemek>
+      <Yemek tur="Ana Yemek">Piliç Roti</Yemek>
+      <Yemek tur="Yardımcı Yemek">Fırın Makarna</Yemek>
+      <Yemek tur="Salata/Ek">Havuç Salata</Yemek>
+      <Yemek tur="Ek">Ayran</Yemek>
+    </OgleYemegi>
+    <AksamYemegi>
+      <Kalori>950 kcal</Kalori>
+      <Yemek tur="Çorba">Tarhana Çorbası</Yemek>
+      <Yemek tur="Ana Yemek">Ispanak Graten</Yemek>
+      <Yemek tur="Yardımcı Yemek">Erişte</Yemek>
+      <Yemek tur="Ek">Yoğurt</Yemek>
+    </AksamYemegi>
+  </Gun>
+  
+  <Gun tarih="2025-10-23" isim="Perşembe">
+    <OgleYemegi>
+      <Kalori>1250 kcal</Kalori>
+      <Yemek tur="Çorba">Mantar Çorbası</Yemek>
+      <Yemek tur="Ana Yemek">Etli Güveç</Yemek>
+      <Yemek tur="Yardımcı Yemek">Bulgur Pilavı</Yemek>
+      <Yemek tur="Salata/Ek">Çoban Salata</Yemek>
+      <Yemek tur="Tatlı">Şekerpare</Yemek>
+    </OgleYemegi>
+    <AksamYemegi>
+      <Kalori>1000 kcal</Kalori>
+      <Yemek tur="Çorba">Mercimek Çorbası</Yemek>
+      <Yemek tur="Ana Yemek">Fırında Tavuk But</Yemek>
+      <Yemek tur="Yardımcı Yemek">Şehriyeli Pirinç Pilavı</Yemek>
+      <Yemek tur="Ek">Meyve Suyu</Yemek>
+    </AksamYemegi>
+  </Gun>
+  
+  <Gun tarih="2025-10-24" isim="Cuma">
+    <OgleYemegi>
+      <Kalori>1180 kcal</Kalori>
+      <Yemek tur="Çorba">Düğün Çorbası</Yemek>
+      <Yemek tur="Ana Yemek">Balık (İstavrit Tava)</Yemek>
+      <Yemek tur="Yardımcı Yemek">Patates Salatası</Yemek>
+      <Yemek tur="Salata/Ek">Roka ve Yeşillik</Yemek>
+      <Yemek tur="Tatlı">İrmik Helvası</Yemek>
+    </OgleYemegi>
+    <AksamYemegi>
+      <Kalori>920 kcal</Kalori>
+      <Yemek tur="Çorba">Sebze Çorbası</Yemek>
+      <Yemek tur="Ana Yemek">Mercimek Köftesi</Yemek>
+      <Yemek tur="Yardımcı Yemek">Peynirli Makarna</Yemek>
+      <Yemek tur="Ek">Ayran</Yemek>
+    </AksamYemegi>
+  </Gun>
+
+</YemekMenusu>
