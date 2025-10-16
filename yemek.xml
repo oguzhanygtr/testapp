@@ -3,12 +3,12 @@
   
   <Gun tarih="2025-10-20" isim="Pazartesi">
     <OgleYemegi>
-      <Kalori>1150 kcal</Kalori>
-      <Yemek tur="Çorba">Mercimek Çorbası</Yemek>
-      <Yemek tur="Ana Yemek">Orman Kebabı</Yemek>
-      <Yemek tur="Yardımcı Yemek">Pirinç Pilavı</Yemek>
-      <Yemek tur="Salata/Ek">Mevsim Salata</Yemek>
-      <Yemek tur="Tatlı">Supangle</Yemek>
+      <Yemek tur="Kalori">1150 kcal</Yemek>
+      <Yemek tur="corba">Mercimek Çorbası</Yemek>
+      <Yemek tur="ana_yemek">Orman Kebabı</Yemek>
+      <Yemek tur="yan_yemek">Pirinç Pilavı</Yemek>
+      <Yemek tur="etsiz_secim">Mevsim Salata</Yemek>
+      <Yemek tur="tatli_meyve">Supangle</Yemek>
     </OgleYemegi>
   </Gun>
   
